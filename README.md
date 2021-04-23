@@ -1,4 +1,4 @@
-Code snippets, files, tutorials, and general data from my work in the Charlie Fehl Group.
+Stuff related to my proteomics work in the Charlie Fehl Group.
 
 # R Scripts for Visualization
 Check these out in the 'scripts' folder!
@@ -7,10 +7,10 @@ Check these out in the 'scripts' folder!
 Check these out in the 'datasets' folder!
 
 # YouTube Tutorials
-Accessing MaxQuant via ondemand: [WIP]
-Accessing MaxQuant via WinSCP: [WIP]
-Running MaxQuant: [WIP]
-Cleaning Your Results: [WIP]
-Applying Visualizations: [WIP]
+- Accessing MaxQuant via ondemand: [WIP]
+- Accessing MaxQuant via WinSCP: [WIP]
+- Running MaxQuant: [WIP]
+- Cleaning Your Results: [WIP]
+- Applying Visualizations: [WIP]
 
 # Additional Resources
