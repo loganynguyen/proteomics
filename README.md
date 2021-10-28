@@ -1,19 +1,6 @@
-Stuff related to my proteomics work in the Charlie Fehl Group.
+Stuff related to my proteomics work in the Charlie Fehl Group:
 
-# R Scripts for Visualization
-Check these out in the 'scripts' folder!
-
-# Datasets
-Check these out in the 'datasets' folder!
-
-# YouTube Tutorials
-- Accessing MaxQuant via ondemand: [WIP]
-- Accessing MaxQuant via WinSCP: [WIP]
-- Running MaxQuant: [WIP]
-- Cleaning Your Results: [WIP]
-- Applying Visualizations: [WIP]
-
-# Additional Resources
-
-# Future Work
-https://github.com/JurgenCox/perseus-plugins/blob/master/PerseusPluginLib/Mods/AddKnownSites.cs
+- Video tutorial on accessing MaxQuant & ruunning a job on the grid (using the ondemand method): https://www.youtube.com/watch?v=NNSAIj-jz40&ab_channel=LoganNguyen
+- Available WSU Grid resources: https://tech.wayne.edu/hpc/nodes
+- General MaxQuant video tutorials: https://www.youtube.com/c/MaxQuantChannel
+- Potential things to look into: https://github.com/JurgenCox/perseus-plugins/blob/master/PerseusPluginLib/Mods/AddKnownSites.cs
